@@ -1,4 +1,4 @@
-### Hi there Chloe(Eunsuk) Lee 👋 
+### Hi there Eunsuk(Chloe) Lee 👋 
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Welcome%20&fontSize=70" />
 #### Web Development
